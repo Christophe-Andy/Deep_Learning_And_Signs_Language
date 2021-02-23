@@ -1,0 +1,12 @@
+Le Deep Learning Appliqué à la Reconnaissance du Langage des Signes
+
+• Base de données principale : Ensemble de données d'images pour les alphabets dans la langue des signes américaine (Alphabet ASL)
+
+- Nombre de classes : 29 classes
+- Nombre d’images : 87 000 images
+- Dimension d’une image : 200 x 200 px
+- Nombre d’images par classe : 3000 images
+- Poids du dataset : 1,02 Go
+_________________________________________________________________
+
+- Lien de téléchargement du Dataset : https://www.kaggle.com/grassknoted/asl-alphabet/download
